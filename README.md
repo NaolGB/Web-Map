@@ -1,5 +1,5 @@
 # Web-Map
-Visualizing the internet through website domains and popularity. While the list of websites is continiously updating to discover new websites and update popularity of existing ones, the visualization currently is provided using the top ~100K websites and the data (data/domains.csv) contains ~1 Million websites.
+Visualizing the internet through website domains and popularity. While the list of websites is continiously updating to discover new websites and update popularity of existing ones, the visualization currently is provided using the top ~100K websites and the data (data/domains.csv) contains ~1 Million websites. <strong>The databse and csv might include X rated websites, do not visit the websites listed in the data if you are under 18.</strong>
 
 ## About
 Generating map of the internet by web crawling and extracting outgoing and internal links from pages. To increase efficiency while crawling, I used MySQL with multiprocessing as MySQL can handle mutiple conncetions at a time from different process. 

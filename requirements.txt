@@ -1,0 +1,7 @@
+mysql-connector-python
+bs4
+networkx
+pandas
+numpy
+tldextract
+lxml

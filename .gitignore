@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# others
+trash/
+utils/
+try.py
+try.ipynb
+journal.md

@@ -22,7 +22,7 @@ This image shows the visualization of the top ~100K websites. The size indicates
 &nbsp;
 
 ![The Internet by #Incoming Links (Ascending)](data/images/The%20Internet%20By%20Incoming%20Links%20Ascending.png)
-This image shows the visualization of the top ~100K websites. The size and color indicates the number of incoming links (the number of times other website pages linked to this domain). This is arranged for ascending incoming links for Tableau visualization.
+This image shows the visualization of the top ~100K websites. The size and color indicates the number of incoming links (the number of times other website pages linked to this domain). This is arranged in ascending incoming links for Tableau visualization.
 &nbsp;
 &nbsp;
 

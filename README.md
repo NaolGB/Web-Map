@@ -17,12 +17,12 @@ You can see my interactive versions in Table Public <a href="https://public.tabl
 
 The non-interactive versions are given here 
 ![The Internet by Domain](data/images/The%20Internet%20By%20Domain.png)
-This image shows the visualization of the top ~100K websites. The size indicates the number of incoming links (the number of times other website pages linked to this domain). The color indicates the suffix of the website (google.com has a suffix of com, wekepedia.org has org). The rank of a website is determined by the total number of links leading to that website. Look for more information in the comments and docstrings of the scripts.
+This image shows the visualization of the top ~100K websites. The size indicates the number of incoming links (the number of times other website pages linked to this domain). The color indicates the suffix of the website (google.com has a suffix of com, wikipedia.org has org). The rank of a website is determined by the total number of links leading to that website. Look for more information in the comments and docstrings of the scripts.
 &nbsp;
 &nbsp;
 
 ![The Internet by #Incoming Links (Ascending)](data/images/The%20Internet%20By%20Incoming%20Links%20Ascending.png)
-This image shows the visualization of the top ~100K websites. The size and color indicates the number of incoming links (the number of times other website pages linked to this domain). This is arranged for ascending incoming links for Tableau visualization.
+This image shows the visualization of the top ~100K websites. The size and color indicates the number of incoming links (the number of times other website pages linked to this domain). This is arranged in ascending incoming links for Tableau visualization.
 &nbsp;
 &nbsp;
 
